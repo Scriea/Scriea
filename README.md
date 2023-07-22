@@ -3,7 +3,7 @@
 I am Ashutosh Mulchandani, an undergraduate student at IIT Bombay, India.
 
 - 🌱 Exploring Technical Content Writing.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashutoshmulchandani)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Screa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashutoshmulchandani)
 
 ---
 
