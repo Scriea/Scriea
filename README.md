@@ -7,12 +7,6 @@ I am Ashutosh Mulchandani, an undergraduate student at IIT Bombay, India.
 
 ---
 
-
-<p align="center">
-<a href="https://www.linkedin.com/in/ashutoshmulchandani/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
-
-
 <!--
 **Scriea/Scriea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
