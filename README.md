@@ -5,7 +5,12 @@
 I am Ashutosh Mulchandani, an undergraduate student at IIT Bombay, India.\
 
 - 🌱 Exploring Technical Content Writing.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Screa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashutoshmulchandani)
+
+
+### 📫 How to reach me: 
+&nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Ashutosh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashutoshmulchandani)
+&nbsp; [![Twitter_Badge](https://img.shields.io/badge/-Ashutosh-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Screa__)
+&nbsp; [![Instagram_Badge](https://img.shields.io/badge/-Ashutosh-blue?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ashu_1470/)
 
 ---
 
