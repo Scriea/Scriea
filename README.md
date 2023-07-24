@@ -1,6 +1,8 @@
 ### Hi there
 
-I am Ashutosh Mulchandani, an undergraduate student at IIT Bombay, India.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Scriea&label=Profile%20views&color=0e75b6&style=flat" alt="Scriea" /> </p>
+
+I am Ashutosh Mulchandani, an undergraduate student at IIT Bombay, India.\
 
 - 🌱 Exploring Technical Content Writing.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Screa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashutoshmulchandani)
