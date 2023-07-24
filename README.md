@@ -5,6 +5,8 @@
 I am Ashutosh Mulchandani, an undergraduate student at IIT Bombay, India.\
 
 - 🌱 Exploring Technical Content Writing.
+- 🌱 Interested in ML, Computer Vision, and MLOps
+- 🌱 I’m currently learning: **NLP and LLMs**
 
 
 ### 📫 How to reach me: 
