@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Scriea&label=Profile%20views&color=0e75b6&style=flat" alt="Scriea" /> </p>
 
-I am Ashutosh Mulchandani, an undergraduate student at IIT Bombay, India. \
+I am Ashutosh Mulchandani, an undergraduate student at IIT Bombay, India.
 
 - 🌱 Exploring Technical Content Writing.
 - 🌱 Interested in ML, Computer Vision, and MLOps
