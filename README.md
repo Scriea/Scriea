@@ -2,11 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Scriea&label=Profile%20views&color=0e75b6&style=flat" alt="Scriea" /> </p>
 
-I am Ashutosh Mulchandani, an undergraduate student at IIT Bombay, India.
+Hi! I am Ashutosh Mulchandani, a student at IIT Bombay, pursuing a dual degree in Mechanical Engineering (B.Tech) and Machine Learning/Data Science (M.Tech) at CMINDS. Passionate about merging mechanics with data-driven insights!
 
 - 🌱 Exploring Technical Content Writing.
 - 🌱 Interested in ML, Computer Vision, RL, DL, NLP.
-- 🌱 I’m currently learning: **LLMs and Reinforcement Learning**
+- 🌱 I’m currently learning: **LLMs, Reinforcement Learning and Chess :)**
 
 
 ### 📫 How to reach me: 
