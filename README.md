@@ -6,7 +6,7 @@ Hi! I am Ashutosh Mulchandani, a student at IIT Bombay, pursuing a dual degree i
 
 - 🌱 Exploring Technical Content Writing.
 - 🌱 Interested in ML, Computer Vision, RL, DL, NLP.
-- 🌱 I’m currently learning: **LLMs, Reinforcement Learning and Chess :)**
+- 🌱 I’m currently learning about: **LLMs, Fauld Detection Using Vibration, Chess**
 
 
 ### 📫 How to reach me: 
