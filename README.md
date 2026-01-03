@@ -5,8 +5,7 @@
 Hi! I am Ashutosh Mulchandani, a student at IIT Bombay, pursuing a dual degree in Mechanical Engineering (B.Tech) and Machine Learning/Data Science (M.Tech) at CMINDS. Passionate about merging mechanics with data-driven insights!
 
 - 🌱 Exploring Technical Content Writing.
-- 🌱 Interested in ML, Computer Vision, RL, DL, NLP.
-- 🌱 I’m currently learning on these topics: **Attribution/Citation using LLMs, RL, Contextual Bandits**
+- 🌱 I’m currently working on these topics: **OnDevice Memory Agents, Face Tracking for XR Applications**
 
 
 ### 📫 How to reach me: 
